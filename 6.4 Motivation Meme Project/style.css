@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+img{
+    border: solid white;
+    border-width: 5px;
+    width: 100%;
+}
+p{
+    font-size: small;
+}
+.new{
+    color: white;
+    text-align: center;
+    
+}
+h1{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+div{
+    margin: 10%;
+    width: 50%;
+    
+}
